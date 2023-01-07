@@ -1,0 +1,121 @@
+body{
+    background-color: #fef8ed;
+    width: 100%;
+    height: 100%;
+    margin-left: 1em;
+   
+}
+
+header{
+    background-color: #81094e;
+    display: flex;
+    justify-content: center;
+    width: 93.5em;
+    height: 10%;
+    
+    
+}
+h1{
+    font-family: Roboot;
+    color: #fef8ed;
+}
+#image1{
+  
+    border-radius: 25px;
+    height: 35em;
+    width: 94em;
+    margin-right: 1.6em;
+
+}
+#banner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+.ingredients-time-section{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 2em;
+    width: 100%;
+  
+    
+}
+.ingredients{
+    background-color: #81094e;
+    width: 65em;
+    height: 20em;
+    font-family: Roboot;
+    color: #fef8ed;
+    display: flex;
+    flex-direction: row
+    font-size: 1.5em;
+    margin-bottom:2em;
+    margin-right: 10em;
+}
+.dressing-ingredients{
+
+}
+#title-1{
+    display: flex;
+    justify-content: center;
+    font-size: 1.0em;
+}
+#caption{
+    display: flex;
+    justify-content: start;
+    font-size: 1em;
+}
+.time{
+    background-color: #81094e;
+    width: 20em;
+    height: 25.2em;
+    font-family: Roboot;
+    color: #fef8ed;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+   margin-right: 1.2em;
+   margin-bottom: 4.8em;
+}
+.preparation-instructions{
+    background-color: #81094e;
+    width: 52.6em;
+    height: 30em;
+    font-family: Roboot;
+    color: #fef8ed;
+    font-size: 1.1em;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 2em;
+  
+
+
+}
+#title-2{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+.caption-1{
+    font-size: 1.5em;
+}
+
+footer{
+    background-color: #81094e;
+    display: flex;
+    justify-content: center;
+    width: 93.5em;
+    height: 2em;
+    color: #fef8ed;
+    margin-top: 2em;
+    padding-top: 1em;
+    font-family: Robbot;
+    font-size: 1em;
+    font: bold;
+}
+  
