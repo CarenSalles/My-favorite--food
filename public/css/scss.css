@@ -38,13 +38,14 @@ h1{
     justify-content: space-evenly;
     margin-top: 2em;
     width: 100%;
+    height: 20em ;
   
     
 }
 .ingredients{
     background-color: #81094e;
-    width: 65em;
-    height: 20em;
+    width: 72.2em;
+    height: 30em;
     font-family: Roboot;
     color: #fef8ed;
     display: flex;
@@ -52,14 +53,22 @@ h1{
     font-size: 1.5em;
     margin-bottom:2em;
     margin-right: 10em;
+   
 }
+.salad-ingredients{
+    padding-left: 1em;
+    font-size: 1.2em;
+}
+
 .dressing-ingredients{
+padding-top: 6.5em;
+font-size: 1.2em;
 
 }
 #title-1{
-    display: flex;
-    justify-content: center;
-    font-size: 1.0em;
+    font-size: 1.4em;
+    padding-left: 10em;
+    padding-top: 1em;
 }
 #caption{
     display: flex;
@@ -69,7 +78,7 @@ h1{
 .time{
     background-color: #81094e;
     width: 20em;
-    height: 25.2em;
+    height: 20em;
     font-family: Roboot;
     color: #fef8ed;
     border-radius: 15px;
@@ -84,14 +93,14 @@ h1{
 }
 .preparation-instructions{
     background-color: #81094e;
-    width: 52.6em;
-    height: 30em;
+    width: 51.5em;
+    height: 31em;
     font-family: Roboot;
     color: #fef8ed;
     font-size: 1.1em;
     padding-top: 1em;
     margin-bottom: 1em;
-    padding-bottom: 2em;
+    margin-top: 15em;
   
 
 
@@ -100,10 +109,18 @@ h1{
     display: flex;
     justify-content: center;
     font-size: 2em;
+ 
 }
 .caption-1{
-    font-size: 1.5em;
+    font-size: 1.7em;
+    margin-left: 1.1em;
 }
+
+.caption-2{
+    font-size: 1.7em;
+   
+    }
+
 
 footer{
     background-color: #81094e;
@@ -115,7 +132,7 @@ footer{
     margin-top: 2em;
     padding-top: 1em;
     font-family: Robbot;
-    font-size: 1em;
+    font-size: 1.0em;
     font: bold;
 }
   
